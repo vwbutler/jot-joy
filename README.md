@@ -2,7 +2,7 @@
 
 ## Description
   
-  Here is the Note Taker Express.js application, also known as Jot Joy. This application allows you to write and save notes, helping you organize your thoughts and keep track of tasks you need to complete. The back end of this application is built with Express.js and uses a JSON file to store and retrieve note data. Joy Joy brings together a pre-built front end with a newly created back end connected and deployed to Heroku.
+  Here is the Note Taker Express.js application, also known as Jot Joy. This application allows you to write and save notes, helping you organize your thoughts and keep track of tasks you need to complete. The back end of this application is built with Express.js and uses a JSON file to store and retrieve note data. Jot Joy brings together a pre-built front end with a newly created back end connected together and deployed to Heroku.
 
 As an added bonus, users may delete their notes.
 
@@ -18,17 +18,19 @@ As an added bonus, users may delete their notes.
   Clone to your local machine, navigate to the project directory, install the required dependencies and start.
   
 ## Visual
-The image below displays the home page/
+The image below displays the home page.
+
 ![jot joy home page](/public/assets/images/jot-joy-home.png)
 
 The image below displays the data entry page. The user may select the red trash can icon to delete the note.
+
 ![jot joy entry page](/public/assets/images/jot-joy-with-note.png)
 
 ## Usage
 
 ### Deployed Application
 
-  [Visit the deployed applicatin in Heroku and give it a try.](https://jot-joy.herokuapp.com/)
+  [Visit the deployed application in Heroku and give it a try.](https://jot-joy.herokuapp.com/)
 
 ### User Story
 
