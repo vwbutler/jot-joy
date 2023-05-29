@@ -1,17 +1,32 @@
-# jot-joy
-An application called Note Taker that can be used to write and save notes.
+# Project: Joy Joy
 
+  ## Description:
+  
+Here is the Note Taker Express.js application, also known as Jot Joy. This application allows you to write and save notes, helping you organize your thoughts and keep track of tasks you need to complete. The back end of this application is built with Express.js and uses a JSON file to store and retrieve note data. Joy Joy brings together a pre-built front end with a newly created back end connected and deployed to Heroku.
 
-The application should have a db.json file on the back end that will be used to store and retrieve notes using the fs module.
+  ## Table of Contents:
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Questions](#questions)
 
-The following HTML routes should be created:
+  ## Installation:
+  Clone to your local machine, navigate to the project directory, install the required dependencies and start.
+  
+  ## Usage:
 
+  
+  ## License:
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  
+  ## Contributing:
 
+  
 
-GET * should return the index.html file.
-
-The following API routes should be created:
-
-GET /api/notes should read the db.json file and return all saved notes as JSON.
-
-POST /api/notes should receive a new note to save on the request body, add it to the db.json file, and then return the new note to the client. You'll need to find a way to give each note a unique id 
+  
+  ## Questions:
+  If you need help or have questions, contact Virginia Butler.  
+  **Github**: [vwbutler](https://github.com/vwbutler)  
+  **Email**: vwbutler@gmail.com  
+        
